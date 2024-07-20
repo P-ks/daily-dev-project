@@ -6,7 +6,7 @@
 
 <br>
 
-# Welcome to the daily.dev 
+# Welcome to the daily.dev repo
 
 We know how hard it is to be a developer. It doesn't have to be. <br/>
 daily.dev is the homepage every developer deserves. <br/>
